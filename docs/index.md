@@ -1,4 +1,4 @@
-# Affiliation
+## Affiliation
 
 PhD student at
 [Japan Advanced Institute of Science and Technology (JAIST)](https://www.jaist.ac.jp/english/).
