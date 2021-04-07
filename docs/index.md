@@ -12,6 +12,8 @@ My research interests focus on data-oriented modeling of musical structures.
 I am also involved in studies of Natural Language Processing (NLP), experiencing approaches for sequential data and syntactic structure, which are common to both music and language.
 
 ## Publications
+1. The Simulated Emergence of Chord Function: Yui Uehara and Satoshi Tojo, 10th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMUSART2021)
+[[html]](https://link.springer.com/chapter/10.1007/978-3-030-72914-1_18)
 
 1. Market Comment Generation from Data with Noisy Alignments:
 Yumi Hamazono, Yui Uehara, Hiroshi Noji, Yusuke Miyao, Hiroya Takamura, Ichiro Kobayashi,
