@@ -1,7 +1,6 @@
 ## Affiliation
 
-Postdoctoral researcher at the [Knowledge and Information Research Team](https://aistairc.github.io/plu/) in
-[Artificial Intelligence Research Center (AIST), Tokyo, Japan](https://www.airc.aist.go.jp/en/intro/).
+Assistant Professor at [Kanagawa University](https://www.kanagawa-u.ac.jp/) (Faculty of Informatics), Japan.
 
 ## Research Interests
 
@@ -67,4 +66,12 @@ March 2019      Master of Science (Information Science), Japan Advanced Institut
 
 March 2008      Bachelor of Integrated Human Studies, Kyoto University, Japan
 
+## Experience
+April 2023 - Today: Assistant Professor, [Kanagawa University](https://www.kanagawa-u.ac.jp/), Japan.
+
+October 2022 - March 2023: Postdoctoral researcher, [Knowledge and Information Research Team](https://aistairc.github.io/plu/) in
+[Artificial Intelligence Research Center (AIST), Tokyo, Japan](https://www.airc.aist.go.jp/en/intro/).
+
+July 2018 - September 2022: Technical Staff, Knowledge and Information Research Team in
+Artificial Intelligence Research Center (AIST), Tokyo, Japan.
 
