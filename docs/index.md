@@ -23,6 +23,10 @@ Hayate Iso, Yui Uehara, Tatsuya Ishigaki, Hiroshi Noji, Eiji Aramaki, Ichiro Kob
 自然言語処理, vol.27, No.3, pp.599--626, 2020 [[html]](https://doi.org/10.5715/jnlp.27.599)
 
 ### Conference Papers (Refereed)
+1. Pretraining Language- and Domain-Specific BERT on Automatically Translated Text:
+Tatsuya Ishigaki, Yui Uehara, Goran Topić, and Hiroya Takamura,
+14th International Conference on Recent Advances in Natural Language Processing (RANLP2023) [[html]](https://aclanthology.org/2023.ranlp-1.60/)
+
 1. Unsupervised Discovery of Tonality in Bach’s Chorales:
 Yui Uehara, Satoshi Tojo, and Ryuhei Uehara,
 The Sixteenth International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2021)
