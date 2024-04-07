@@ -16,7 +16,7 @@ Journal of Intelligence Informatics and Smart Technology, volume 8, October 2022
 
 1. Chord Function Recognition as Latent State Transition:
 Yui Uehara and Satoshi Tojo,
-SN Computer Science, 3:508, Springer, 2022 [[html]](https://doi.org/10.1007/s42979-022-01395-4) [[pdf]](https://link.springer.com/content/pdf/10.1007/s42979-022-01395-4.pdf) [[code]] (https://github.com/yui-u/emerge-chord-function)
+SN Computer Science, 3:508, Springer, 2022 [[html]](https://doi.org/10.1007/s42979-022-01395-4) [[pdf]](https://link.springer.com/content/pdf/10.1007/s42979-022-01395-4.pdf) [[code]](https://github.com/yui-u/emerge-chord-function)
 
 1. Learning to Select, Track, and Generate for Data-to-Text:
 Hayate Iso, Yui Uehara, Tatsuya Ishigaki, Hiroshi Noji, Eiji Aramaki, Ichiro Kobayashi, Yusuke Miyao, Naoaki Okazaki, Hiroya Takamura,
@@ -25,7 +25,7 @@ Hayate Iso, Yui Uehara, Tatsuya Ishigaki, Hiroshi Noji, Eiji Aramaki, Ichiro Kob
 ### Conference Papers (Refereed)
 1. Unsupervised Harmonic Analysis with Code Quality Templates:
 Yui Uehara,
-11th International Conference on New Music Concepts (ICNMC2024) [[html]] (http://arxiv.org/abs/2403.04135) [[code]] (https://github.com/yui-u/harmonic-analysis-chorales)
+11th International Conference on New Music Concepts (ICNMC2024) [[html]](http://arxiv.org/abs/2403.04135) [[code]](https://github.com/yui-u/harmonic-analysis-chorales)
 
 1. Pretraining Language- and Domain-Specific BERT on Automatically Translated Text:
 Tatsuya Ishigaki, Yui Uehara, Goran Topić, and Hiroya Takamura,
