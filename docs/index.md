@@ -35,7 +35,7 @@ Tatsuya Ishigaki, Yui Uehara, Goran Topić, and Hiroya Takamura,
 Yui Uehara, Satoshi Tojo, and Ryuhei Uehara,
 The Sixteenth International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2021)
 
-1. The Simulated Emergence of Chord Function: Yui Uehara and Satoshi Tojo, 10th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMUSART2021) [[paper]](https://doi.org/10.1007/978-3-030-72914-1_18) [[code]] (https://github.com/yui-u/emerge-chord-function)
+1. The Simulated Emergence of Chord Function: Yui Uehara and Satoshi Tojo, 10th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMUSART2021) [[paper]](https://doi.org/10.1007/978-3-030-72914-1_18) [[code]](https://github.com/yui-u/emerge-chord-function)
 
 1. Learning with Contrastive Examples for Data-to-Text Generation:
 *Yui Uehara, *Tatsuya Ishigaki (*Equal contribution), Kasumi Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura, Yusuke Miyao,
