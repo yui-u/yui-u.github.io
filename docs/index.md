@@ -16,13 +16,17 @@ Journal of Intelligence Informatics and Smart Technology, volume 8, October 2022
 
 1. Chord Function Recognition as Latent State Transition:
 Yui Uehara and Satoshi Tojo,
-SN Computer Science, 3:508, Springer, 2022 [[html]](https://doi.org/10.1007/s42979-022-01395-4) [[pdf]](https://link.springer.com/content/pdf/10.1007/s42979-022-01395-4.pdf)
+SN Computer Science, 3:508, Springer, 2022 [[html]](https://doi.org/10.1007/s42979-022-01395-4) [[pdf]](https://link.springer.com/content/pdf/10.1007/s42979-022-01395-4.pdf) [[code]] (https://github.com/yui-u/emerge-chord-function)
 
 1. Learning to Select, Track, and Generate for Data-to-Text:
 Hayate Iso, Yui Uehara, Tatsuya Ishigaki, Hiroshi Noji, Eiji Aramaki, Ichiro Kobayashi, Yusuke Miyao, Naoaki Okazaki, Hiroya Takamura,
 自然言語処理, vol.27, No.3, pp.599--626, 2020 [[html]](https://doi.org/10.5715/jnlp.27.599)
 
 ### Conference Papers (Refereed)
+1. Unsupervised Harmonic Analysis with Code Quality Templates:
+Yui Uehara,
+11th International Conference on New Music Concepts (ICNMC2024) [[html]] (http://arxiv.org/abs/2403.04135) [[code]] (https://github.com/yui-u/harmonic-analysis-chorales)
+
 1. Pretraining Language- and Domain-Specific BERT on Automatically Translated Text:
 Tatsuya Ishigaki, Yui Uehara, Goran Topić, and Hiroya Takamura,
 14th International Conference on Recent Advances in Natural Language Processing (RANLP2023) [[html]](https://aclanthology.org/2023.ranlp-1.60/)
@@ -31,11 +35,11 @@ Tatsuya Ishigaki, Yui Uehara, Goran Topić, and Hiroya Takamura,
 Yui Uehara, Satoshi Tojo, and Ryuhei Uehara,
 The Sixteenth International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2021)
 
-1. The Simulated Emergence of Chord Function: Yui Uehara and Satoshi Tojo, 10th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMUSART2021) [[html]](https://doi.org/10.1007/978-3-030-72914-1_18)
+1. The Simulated Emergence of Chord Function: Yui Uehara and Satoshi Tojo, 10th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMUSART2021) [[html]](https://doi.org/10.1007/978-3-030-72914-1_18) [[code]] (https://github.com/yui-u/emerge-chord-function)
 
 1. Learning with Contrastive Examples for Data-to-Text Generation:
 *Yui Uehara, *Tatsuya Ishigaki (*Equal contribution), Kasumi Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura, Yusuke Miyao,
-28th International Conference on Computational Linguistics (COLING2020) [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.213.pdf) [[bib]](https://www.aclweb.org/anthology/2020.coling-main.213.bib)
+28th International Conference on Computational Linguistics (COLING2020) [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.213.pdf) [[bib]](https://www.aclweb.org/anthology/2020.coling-main.213.bib) [[code]](https://github.com/aistairc/contrastive_data2text)
 
 1. Market Comment Generation from Data with Noisy Alignments:
 Yumi Hamazono, Yui Uehara, Hiroshi Noji, Yusuke Miyao, Hiroya Takamura, Ichiro Kobayashi,
