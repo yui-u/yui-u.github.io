@@ -10,6 +10,12 @@ I am also involved in studies of Natural Language Processing (NLP), experiencing
 ## Publications
 
 ### Journal papers
+1. Automatic Mode Recognition and Harmonic Analysis with Unlabeled Data:
+Yui Uehara,
+International Journal of Music Science, Technology and Art, vol.6, No.2, pp.17--37
+[[paper]](https://doi.org/10.48293/IJMSTA-115)
+[[code]](https://github.com/yui-u/harmonic-analysis-chorales)
+
 1. Unsupervised Discovery of Tonality in Bach’s Chorales:
 Yui Uehara, Satoshi Tojo, and Ryuhei Uehara,
 Journal of Intelligence Informatics and Smart Technology, volume 8, October 2022 [[paper]](https://jiist.aiat.or.th/assets/uploads/1667145947961NQ6i510_Unsupervised%20Discovery%20of%20Tonality%20in%20Bach_s%20Chorales.pdf)
